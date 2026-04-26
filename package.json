@@ -1,10 +1,10 @@
 {
-  "name": "@specfocus/view-focus.mui.rich-text",
-  "version": "0.0.2",
+  "name": "@specfocus/rich-text",
+  "version": "0.0.0",
   "private": true,
   "repository": {
     "type": "git",
-    "url": "https://github.com/specfocus/view-focus.mui.rich-text.git"
+    "url": "https://github.com/specfocus/rich-text.git"
   },
   "scripts": {
     "prebuild-skip": "tslint -c tslint.json -p tsconfig.json --fix",
